@@ -183,5 +183,5 @@ indexhtml
             });
         }
     </script>
-</body>
+</body>.
 </h>
